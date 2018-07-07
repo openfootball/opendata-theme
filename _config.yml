@@ -1,0 +1,7 @@
+
+
+sass:
+  style: expanded
+
+exclude:
+- README.md
